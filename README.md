@@ -6,4 +6,4 @@ This projects containts the following methods:
 3. evaluating the model on test data.
 4. saving the model parameters.
 
-**Note: By running the code in [training/test.py](https://github.com/taravatp/Neural_Network_From_Scratch/blob/main/testing/test.py), you can read a frame from your webcam, pass the generated keypoints to your model and see the results!
+**Note: By running the code in [training/test.py](https://github.com/taravatp/Neural_Network_From_Scratch/blob/main/testing/test.py), you can read a frame from your webcam, pass the generated keypoints to your model and see the results!**
