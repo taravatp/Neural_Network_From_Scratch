@@ -22,7 +22,7 @@ This projects containts the following methods:
 
 **Note: By running the code in [training/test.py](https://github.com/taravatp/Neural_Network_From_Scratch/blob/main/testing/test.py), you can read a frame from your webcam, pass the generated keypoints to your model and see the results!**
 
-This is the outcome of evaluating the model:
+This is the outcome of model evaluation:
 <p align="center" width="100%">
 <img src="images/results.png" width="70%" height="60%">
 </p>
