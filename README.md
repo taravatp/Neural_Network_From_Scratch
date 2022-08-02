@@ -11,7 +11,7 @@ In order to prepare the dataset, 21 keypoints of each hand gesture in a raw imag
 <img src="images/sample_data.png" width="70%" height="60%">
 </p>
 
-**Note: because of computational limitations, this model has been trained on just 10 classes (Engilesh letter).**
+**Note: because of computational limitations, this model has been trained on just 10 classes.**
 
 This projects containts the following methods:
 1. feedforward methods to produce the outcome of an MLP model
