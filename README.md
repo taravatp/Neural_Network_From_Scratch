@@ -11,13 +11,14 @@ In order prepare the dataset, 21 keypoints of each hand gesture in a raw image h
 <img src="images/sample_data.png" width="70%" height="60%">
 </p>
 
-**Note: because of computational limits, this model has been trained on just 10 classes (Engilesh letter).**
+**Note: because of computational limitations, this model has been trained on just 10 classes (Engilesh letter).**
 
 This projects containts the following methods:
 1. feedforward methods to produce the outcome of an MLP model
 2. Backward methods to update the parameters.
-3. evaluating the model on test data.
-4. saving the model parameters.
+3. training the model.
+4. evaluating the model on test data.
+5. saving the model parameters.
 
 **Note: By running the code in [training/test.py](https://github.com/taravatp/Neural_Network_From_Scratch/blob/main/testing/test.py), you can read a frame from your webcam, pass the generated keypoints to your model and see the results!**
 
